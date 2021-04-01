@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://photocall.xyz/images/cnn.png" ,CNN News (ENG)
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+
+#EXTINF:-1 tvg-logo="https://photocall.xyz/images/cbs.png" ,CBS News (ENG)
+https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/898e7d35-bbc6-4386-aa8c-9dbc6e5c693f:BRU/variant/2aaf56a9716cc9a9f28658004cb0db29/bandwidth/3394688.m3u8
+
+#EXTINF:-1 tvg-logo="https://photocall.xyz/images/abc.png" ,ABC News (ENG)
+https://content-auso3.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/g.m3u8?pbs=6ae318ceaa354d5594bb3f3440511a79
